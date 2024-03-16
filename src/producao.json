@@ -1,0 +1,12 @@
+{
+  "playwright": {
+    "headless": false
+  },
+  "rpa_challenge": {
+    "url": "https://rpachallenge.com/",
+    "url_download_excel": "https://rpachallenge.com/assets/downloadFiles/challenge.xlsx",
+    "texto_botao_iniciar_desafio": "Start",
+    "texto_botao_submit": "Submit",
+    "locator_resultado_final": "div[class='message2']"
+  }
+}
